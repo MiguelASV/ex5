@@ -314,7 +314,7 @@ On définit ici des règles de styles générales qui peuvent être enrichies ai
 Ces règles servent de bases  
 */
 header {
-  color: #b19090;
+  color: white;
 }
 
 header h1 {
@@ -398,7 +398,7 @@ main {
       -ms-flex: 1 1 auto;
           flex: 1 1 auto;
   background-color: white;
-  color: #494545;
+  color: white;
 }
 
 main section {
@@ -603,7 +603,7 @@ l'état checked est testé par un le sélecteur suivant:
   text-decoration: none;
   display: block;
   padding: 6px 3px 3px 30px;
-  color: #979090;
+  color: white;
 }
 
 #menu ul li a:hover {
@@ -753,7 +753,7 @@ desktop : 4 colonnes
 #pied-page {
   padding-top: 30px;
   padding-bottom: 30px;
-  color: #2f2c2c;
+  color: #999999;
 }
 
 #pied-page section {

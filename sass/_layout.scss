@@ -40,7 +40,7 @@ main {
     justify-content: center;
     flex : 1 1 auto; // pour pousser le footer en bas du viewport
     background-color: lighten($couleur_rouge, 70%);
-    color :  darken($couleur_blanc, 30%);
+    color :  $couleur_blanc;
     
     section {
         display : flex;

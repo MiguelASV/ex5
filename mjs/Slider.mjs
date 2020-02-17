@@ -18,6 +18,7 @@ export class Slider {
         for (let unSlide of this.list_slide){
             let elmSlide = document.createElement('div')
             let elmImg = document.createElement('img')
+            
             elmSlide.id = 'slides-' + k
             elmImg.id = 'slides-' + k
             elmImg.src = unSlide.img;
