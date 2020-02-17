@@ -7,27 +7,27 @@ export const config_slider = {
         {
             titre : 'Le Titre',
             sousTitre : 'Le sous titre',
-            img : '../img/html5.png'
+            img : './img/html5.png'
         },
         {
             titre : 'Le Titre',
             sousTitre : 'Le sous titre',
-            img : '../img/css3.png'
+            img : './img/css3.png'
         },
         {
             titre : 'Le Titre',
             sousTitre : 'Le sous titre',
-            img : '../img/js.png'
+            img : './img/js.png'
         },
         {
             titre : 'Le Titre',
             sousTitre : 'Le sous titre',
-            img : '../img/php.png'
+            img : './img/php.png'
         },
         {
             titre : 'Le Titre',
             sousTitre : 'Le sous titre',
-            img : '../img/cSharp.png'
+            img : './img/cSharp.png'
         }
 
 
